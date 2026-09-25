@@ -1,0 +1,59 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+--no-fonts
+-classpath
+'C:/Users/Claudio/.m2/repository/javax/servlet/javax.servlet-api/4.0.1/javax.servlet-api-4.0.1.jar;C:/Users/Claudio/.m2/repository/javax/servlet/jsp/javax.servlet.jsp-api/2.3.3/javax.servlet.jsp-api-2.3.3.jar;C:/Users/Claudio/.m2/repository/javax/servlet/jstl/1.2/jstl-1.2.jar;C:/Users/Claudio/.m2/repository/org/mariadb/jdbc/mariadb-java-client/3.5.6/mariadb-java-client-3.5.6.jar;C:/Users/Claudio/.m2/repository/org/mindrot/jbcrypt/0.4/jbcrypt-0.4.jar'
+-encoding
+'UTF-8'
+-private
+-source
+'11'
+-sourcepath
+'C:/Users/Claudio/Eclipe-JEE/BibliotecaUntecEval/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2026. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/Claudio/Eclipe-JEE/BibliotecaUntecEval/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-Xdoclint:none
+-doctitle
+'Biblioteca Digital Untec 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/en/java/javase/11/docs/api' 'C:/Users/Claudio/Eclipe-JEE/BibliotecaUntecEval/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'Biblioteca Digital Untec 1.0-SNAPSHOT API'
+cl.untec.biblioteca.dao
+cl.untec.biblioteca.model
+cl.untec.biblioteca.service
+cl.untec.biblioteca.test
+cl.untec.biblioteca.util
+cl.untec.biblioteca.web
+C:\Users\Claudio\.m2\repository\javax\servlet\javax.servlet-api\4.0.1\javax.servlet-api-4.0.1.jar = 1786729503405
+C:\Users\Claudio\.m2\repository\javax\servlet\jsp\javax.servlet.jsp-api\2.3.3\javax.servlet.jsp-api-2.3.3.jar = 1787158557728
+C:\Users\Claudio\.m2\repository\javax\servlet\jstl\1.2\jstl-1.2.jar = 1786729503650
+C:\Users\Claudio\.m2\repository\org\mariadb\jdbc\mariadb-java-client\3.5.6\mariadb-java-client-3.5.6.jar = 1788801633447
+C:\Users\Claudio\.m2\repository\org\mindrot\jbcrypt\0.4\jbcrypt-0.4.jar = 1788801633523
+C:\Users\Claudio\Eclipe-JEE\BibliotecaUntecEval\src\main\java = 1788802583832
+C:\Users\Claudio\Eclipe-JEE\BibliotecaUntecEval\target\reports\apidocs\allclasses-index.html = 1788914070691
+C:\Users\Claudio\Eclipe-JEE\BibliotecaUntecEval\target\reports\apidocs\allpackages-index.html = 1788914070694
+C:\Users\Claudio\Eclipe-JEE\BibliotecaUntecEval\target\reports\apidocs\element-list = 1788914070346
+C:\Users\Claudio\Eclipe-JEE\BibliotecaUntecEval\target\reports\apidocs\help-doc.html = 1788914070762
+C:\Users\Claudio\Eclipe-JEE\BibliotecaUntecEval\target\reports\apidocs\index-all.html = 1788914070747
+C:\Users\Claudio\Eclipe-JEE\BibliotecaUntecEval\target\reports\apidocs\index.html = 1788914070634
+C:\Users\Claudio\Eclipe-JEE\BibliotecaUntecEval\target\reports\apidocs\member-search-index.js = 1788914070702
+C:\Users\Claudio\Eclipe-JEE\BibliotecaUntecEval\target\reports\apidocs\module-search-index.js = 1788914070696
+C:\Users\Claudio\Eclipe-JEE\BibliotecaUntecEval\target\reports\apidocs\overview-summary.html = 1788914070753
+C:\Users\Claudio\Eclipe-JEE\BibliotecaUntecEval\target\reports\apidocs\overview-tree.html = 1788914070628
+C:\Users\Claudio\Eclipe-JEE\BibliotecaUntecEval\target\reports\apidocs\package-search-index.js = 1788914070698
+C:\Users\Claudio\Eclipe-JEE\BibliotecaUntecEval\target\reports\apidocs\search.html = 1788914070751
+C:\Users\Claudio\Eclipe-JEE\BibliotecaUntecEval\target\reports\apidocs\serialized-form.html = 1788914070476
+C:\Users\Claudio\Eclipe-JEE\BibliotecaUntecEval\target\reports\apidocs\tag-search-index.js = 1788914070703
+C:\Users\Claudio\Eclipe-JEE\BibliotecaUntecEval\target\reports\apidocs\type-search-index.js = 1788914070699
